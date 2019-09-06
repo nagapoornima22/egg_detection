@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>10500.jpg</filename>
+	<path>C:\Users\T Poornima\PycharmProjects\egg_detection\images\train\10500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>french_fries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>8</ymin>
+			<xmax>785</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

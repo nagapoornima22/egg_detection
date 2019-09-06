@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image(5).jpg</filename>
+	<path>C:\Users\T Poornima\PycharmProjects\egg_detection\images\test\image(5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup_cake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>128</ymin>
+			<xmax>598</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>
